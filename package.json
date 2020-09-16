@@ -1,0 +1,22 @@
+{
+  "name": "subject",
+  "version": "1.0.0",
+  "description": "Javascript simple subject for testings",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandre-holzhey-sonarsource/subject-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandre-holzhey-sonarsource/subject-js/issues"
+  },
+  "homepage": "https://github.com/alexandre-holzhey-sonarsource/subject-js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
