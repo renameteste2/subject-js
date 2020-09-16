@@ -1,1 +1,1 @@
-Javascript simple subject for testings
+Javascript simple subject for testing
