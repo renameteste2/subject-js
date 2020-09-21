@@ -20,7 +20,7 @@ jobs:
           args: >
             -Dsonar.organization=alexandre-holzhey-sonarsource
             -Dsonar.projectKey=alexandre-holzhey-sonarsource_subject-js
-            -Dsonar.host.url=https://squad-2-core.sc-dev.io
+            -Dsonar.host.url=https://holzhey.eu.ngrok.io
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Needed to get PR information, if any
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
