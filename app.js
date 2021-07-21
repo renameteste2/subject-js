@@ -6,7 +6,7 @@ function say(a, b) {
   print(a + " " + b);
 }
 
-say("hello", "world", "!");
+say("hello", "world 3", "!");
 say("hello", "world", "!");
 say("hello", "world", "!");
 say("hello", "world", "!");
