@@ -8,5 +8,5 @@ Javascript simple subject for testing
 7
 81
 9
-0
+03
 1
